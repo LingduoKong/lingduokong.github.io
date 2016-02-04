@@ -9,21 +9,17 @@ url:
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Lingduo Kong
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
-  # Social networking links used in footer. Update and remove as you like.
-  twitter:        
-  facebook:       
-  github:         
-  stackexchange:  
-  linkedin:       
-  instagram:      
-  flickr:         
-  tumblr:         
+  bio:            "Hi, I am Lingduo, a programmer interested in any new technologies to improve performance. "
+  email:          lingduokong@gmail.com
+  twitter:        https://twitter.com/lingduokong
+  facebook:       https://www.facebook.com/profile.php?id=100006158027938
+  github:         https://github.com/LingduoKong
+  linkedin:       https://www.linkedin.com/in/lingduokong
+  # stackexchange:  
   # google plus id, include the '+', eg +mmistakes
-  google_plus:
+  google_plus: +lingduokong
 
 # Background image to be tiled on all pages
 background: 
@@ -35,7 +31,7 @@ google_verify:
 bing_verify:         
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    America/San Francisco
 future:      true
 highlighter: rouge
 markdown:    kramdown
