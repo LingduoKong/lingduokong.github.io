@@ -2,7 +2,7 @@
 layout: post
 title: Do you really care 10 bucks ?
 description: "这篇文章对于我这种不习惯为他人付出的国内互联网人有很大的指导和借鉴意义"
-tags: [免费 付费 服务]
+tags: [感想]
 image:
   background: triangular.png
 ---
