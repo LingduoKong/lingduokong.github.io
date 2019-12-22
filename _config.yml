@@ -11,15 +11,12 @@ url:
 owner:
   name:           Lingduo Kong
   avatar:         avatar.jpg
-  bio:            "Hi, I am Lingduo, a programmer interested in any new technologies to improve performance. "
+  bio:            "Hi, I am Lingduo, a programmer interested in improving performance. "
   email:          lingduokong@gmail.com
   twitter:        https://twitter.com/lingduokong
   facebook:       https://www.facebook.com/profile.php?id=100006158027938
   github:         https://github.com/LingduoKong
   linkedin:       https://www.linkedin.com/in/lingduokong
-  # stackexchange:  
-  # google plus id, include the '+', eg +mmistakes
-  google_plus: +lingduokong
 
 # Background image to be tiled on all pages
 background: 
